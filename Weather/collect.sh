@@ -2,7 +2,7 @@
 
 station_ID=51157
 start_year=2018
-end_year=2024
+end_year=2025
 path="weather_data"
 
 for year in $(seq $start_year $end_year); do
